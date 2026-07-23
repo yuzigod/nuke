@@ -108,10 +108,10 @@ async def mall(ctx):
             embed.add_field(
                 name="GitHub",
                 value=
-                "[ [ Click here ] ](https://github.com/social404)",
+                "[ [ Click here ] ](https://github.com/yuzigod)",
                 inline=False)
             embed.set_thumbnail(url="https://tenor.com/view/destory-eexplode-nuke-gif-6073338")
-            embed.set_footer(text="Nuked By Social404's Bot! Sorry About Your Loss")
+            embed.set_footer(text="Nuked By yuzigod's Bot! Sorry About Your Loss")
             await member.send(embed=embed)
         except:
             pass
