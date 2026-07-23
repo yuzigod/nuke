@@ -20,4 +20,4 @@ Gives ping to client (expressed in MS)
 Gives information of a user
 
 # Discord Server:
-## https://discord.gg/kE9vk9Zeuf
+## https://discord.gg/qgU5D5SzPT
