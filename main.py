@@ -98,7 +98,7 @@ async def mall(ctx):
             embed.add_field(
                 name="Discord Server",
                 value=
-                "[ [ Click here ] ](https://discord.gg/kE9vk9Zeuf)",
+                "[ [ Click here ] ](https://discord.gg/qgU5D5SzPT)",
                 inline=False)
             embed.add_field(
                 name="Youtube Channel",
